@@ -1,5 +1,5 @@
 # RGD
-**Этот репозиторий создан Discord сообществом RGD - RussianGameDev**  
+Этот репозиторий создан Discord сообществом **RGD - RussianGameDev**  
 
 https://discord.gg/5kZhhWD
 
